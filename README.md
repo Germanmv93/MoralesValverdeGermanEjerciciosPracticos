@@ -16,6 +16,16 @@
   - Clase 3:
     - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo3/Ejercicio1" target="_blank">Ejercicio 1: Clases y Objetos.</a>
     - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo3/Ejercicio2" target="_blank">Ejercicio 2: POO.</a>
+- Semana 2
+  - Clase 5:
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo1/Ejercicio1" target="_blank">Ejercicio 1 - Herencia, Polimorfismo y Encapsulamiento - Individual.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo1/Ejercicio2" target="_blank">Ejercicio 2 - Herencia y Polimorfismo - Individual.</a>
+  - Clase 6:
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo2/Ejercicio1" target="_blank">Ejercicio 1 - Collections, Clases Abstractas e Interfaces - Grupal.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo2/Ejercicio2" target="_blank">Ejercicio 2 - Collections - Individual (Extra/Opcional).</a>
+  - Clase 7:
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo3/Ejercicio1" target="_blank">Ejercicio 1 - JDBC - Individual.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo3/Ejercicio2" target="_blank">Ejercicio 2 - JPA - Individual.</a>
 ## Java Avanzado
   - Semana 1:
   - Semana 2:
