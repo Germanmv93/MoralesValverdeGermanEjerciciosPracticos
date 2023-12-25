@@ -4,18 +4,18 @@
 ## Java Básico
 - Semana 1
   - Clase 1:
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo1/Ejercicio1" target="_blank">Ejercicio 1: Sintaxis básica.</a>
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo1/Ejercicio2" target="_blank">Ejercicio 2: Tipos de Datos.</a>
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo1/Ejercicio3" target="_blank">Ejercicio 3: Variables y Operadores.</a>
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo1/Ejercicio4" target="_blank">Ejercicio 4: Operaciones de Lectura.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%201/Clase%201/Ejercicio1">Ejercicio 1: Sintaxis básica.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%201/Clase%201/Ejercicio2" target="_blank">Ejercicio 2: Tipos de Datos.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%201/Clase%201/Ejercicio3" target="_blank">Ejercicio 3: Variables y Operadores.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%201/Clase%201/Ejercicio4" target="_blank">Ejercicio 4: Operaciones de Lectura.</a>
   - Clase 2:
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo2/Ejercicio1" target="_blank">Ejercicio 1: Estructuras Condicionales.</a>
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo2/Ejercicio2" target="_blank">Ejercicio 2: Estructuras Repetitivas.</a>
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo2/Ejercicio3" target="_blank">Ejercicio 3: Arreglos: Vectores.</a>
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo2/Ejercicio4" target="_blank">Ejercicio 4: Ejercicio 4: Matrices.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%201/Clase%202/Ejercicio1" target="_blank">Ejercicio 1: Estructuras Condicionales.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%201/Clase%202/Ejercicio2" target="_blank">Ejercicio 2: Estructuras Repetitivas.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%201/Clase%202/Ejercicio3" target="_blank">Ejercicio 3: Arreglos: Vectores.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%201/Clase%202/Ejercicio4" target="_blank">Ejercicio 4: Ejercicio 4: Matrices.</a>
   - Clase 3:
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo3/Ejercicio1" target="_blank">Ejercicio 1: Clases y Objetos.</a>
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo3/Ejercicio2" target="_blank">Ejercicio 2: POO.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%201/Clase%203/Ejercicio1">Ejercicio 1: Clases y Objetos.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%201/Clase%203/Ejercicio2" target="_blank">Ejercicio 2: POO.</a>
 - Semana 2
   - Clase 5:
     - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo1/Ejercicio1" target="_blank">Ejercicio 1 - Herencia, Polimorfismo y Encapsulamiento - Individual.</a>
