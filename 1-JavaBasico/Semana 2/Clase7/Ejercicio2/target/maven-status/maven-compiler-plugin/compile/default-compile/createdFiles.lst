@@ -1,0 +1,9 @@
+com\clase7\ejercicio2\Ejercicio2.class
+com\clase7\ejercicio2\Persistencia\exceptions\PreexistingEntityException.class
+com\clase7\ejercicio2\Persistencia\exceptions\NonexistentEntityException.class
+com\clase7\ejercicio2\Clases\Platillo.class
+com\clase7\ejercicio2\Persistencia\PlatilloJpaController.class
+com\clase7\ejercicio2\Persistencia\exceptions\IllegalOrphanException.class
+com\clase7\ejercicio2\Clases\Platillo_.class
+com\clase7\ejercicio2\Persistencia\ControladoraPersistencia.class
+com\clase7\ejercicio2\Clases\Controladora.class
