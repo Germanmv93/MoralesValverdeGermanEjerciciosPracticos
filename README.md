@@ -27,9 +27,25 @@
     - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%202/Clase7/Ejercicio1">Ejercicio 1 - JDBC - Individual.</a>
     - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%202/Clase7/Ejercicio2">Ejercicio 2 - JPA - Individual.</a>
 ## Java Avanzado
-  - Semana 1:
-  - Semana 2:
-  - Semana 3:
+- Semana 1
+  - Clase 1:
+    - Ejercicio Nº 1 - Reserva de Vuelos - Individual.
+    - Ejercicio Nº 2 - Manejo de Inventarios en un Comercio - Individual.
+    - Ejercicio Nº 3 - Vectores y excepciones - Individual.
+  - Clase 2:
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/2-JavaAvanzado/Semana%201/Clase%202/Ejercicio%201">Ejercicio Nº 1 - Simulación de un centro de atención al cliente.</a>
+    - Ejercicio Nº 2 - Simulación de cadena de producción.
+- Semana 2
+  - Clase 3 y 5:
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/2-JavaAvanzado/Semana%202/Clase%203%20y%205/Ejercicio1">Ejercicio Nº 1 - Empleados - Individual.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/2-JavaAvanzado/Semana%202/Clase%203%20y%205/Ejercicio2">Ejercicio Nº 2 - Gestor de Eventos - Individual.</a>
+  - Clase 6:
+    - Ejercicio 1: Concesionaria de Autos.
+    - Ejercicio 2: Veterinaria.
+  - Clase 7:
+    - Ejercicio 1: Exploración de Directorios.
+    - Ejercicio 2: Organizador de Tareas.
+  - Semana 3
 ## Buenas Practicas:
   - Semana 1:
 ## SpringBoot
