@@ -15,7 +15,7 @@
     - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%201/Clase%202/Ejercicio4" target="_blank">Ejercicio 4: Ejercicio 4: Matrices.</a>
   - Clase 3:
     - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%201/Clase%203/Ejercicio1">Ejercicio 1: Clases y Objetos.</a>
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%201/Clase%203/Ejercicio2" target="_blank">Ejercicio 2: POO.</a>
+    - Ejercicio 2: POO.
 - Semana 2
   - Clase 5:
     - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo1/Ejercicio1" target="_blank">Ejercicio 1 - Herencia, Polimorfismo y Encapsulamiento - Individual.</a>
