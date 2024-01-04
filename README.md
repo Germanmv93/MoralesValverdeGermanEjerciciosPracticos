@@ -24,8 +24,8 @@
     - Ejercicio 1 - Collections, Clases Abstractas e Interfaces - Grupal.
     - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%202/Clase6/Ejercicio2">Ejercicio 2 - Collections - Individual (Extra/Opcional).</a>
   - Clase 7:
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo3/Ejercicio1" target="_blank">Ejercicio 1 - JDBC - Individual.</a>
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo3/Ejercicio2" target="_blank">Ejercicio 2 - JPA - Individual.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%202/Clase7/Ejercicio1">Ejercicio 1 - JDBC - Individual.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%202/Clase7/Ejercicio2">Ejercicio 2 - JPA - Individual.</a>
 ## Java Avanzado
   - Semana 1:
   - Semana 2:
