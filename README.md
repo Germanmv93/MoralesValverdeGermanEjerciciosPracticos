@@ -18,8 +18,8 @@
     - Ejercicio 2: POO.
 - Semana 2
   - Clase 5:
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo1/Ejercicio1" target="_blank">Ejercicio 1 - Herencia, Polimorfismo y Encapsulamiento - Individual.</a>
-    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo1/Ejercicio2" target="_blank">Ejercicio 2 - Herencia y Polimorfismo - Individual.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%202/Clase5/Ejercicio1">Ejercicio 1 - Herencia, Polimorfismo y Encapsulamiento - Individual.</a>
+    - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/1-JavaBasico/Semana%202/Clase5/Ejercicio2" target="_blank">Ejercicio 2 - Herencia y Polimorfismo - Individual.</a>
   - Clase 6:
     - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo2/Ejercicio1" target="_blank">Ejercicio 1 - Collections, Clases Abstractas e Interfaces - Grupal.</a>
     - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/Modulo%20Java%20Basico/Modulo2/Ejercicio2" target="_blank">Ejercicio 2 - Collections - Individual (Extra/Opcional).</a>
