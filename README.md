@@ -45,7 +45,7 @@
   - Clase 7:
     - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/2-JavaAvanzado/Semana%202/Clase%207/Ejercicio1">Ejercicio 1: Exploración de Directorios.</a>
     - Ejercicio 2: Organizador de Tareas.
-  - Semana 3
+- Semana 3
 ## Buenas Practicas:
   - Semana 1:
 ## SpringBoot
