@@ -1,0 +1,21 @@
+.Nico{
+    background-color: yellow;
+    width: 180px;
+}
+.Luisina{
+    background-color: red;
+    width: 180px;
+    color:white;
+}
+
+.German{
+    background-color: violet;
+    width: 180px;
+}
+
+.votar{
+    margin-left: 20px;
+    margin-top: 20px;
+    color:white;
+    background-color: black;
+}

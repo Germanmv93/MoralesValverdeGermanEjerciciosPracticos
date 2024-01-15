@@ -1,0 +1,11 @@
+com\clase10\ejercicio1\logica\Votos_.class
+com\clase10\ejercicio1\logica\ControladoraLogica.class
+com\clase10\ejercicio1\resources\JavaEE8Resource.class
+com\clase10\ejercicio1\persistencia\exceptions\PreexistingEntityException.class
+com\clase10\ejercicio1\persistencia\ControladoraPersistencia.class
+com\clase10\ejercicio1\JAXRSConfiguration.class
+com\clase10\ejercicio1\logica\Votos.class
+com\clase10\ejercicio1\persistencia\exceptions\NonexistentEntityException.class
+com\clase10\ejercicio1\persistencia\VotosJpaController.class
+com\clase10\ejercicio1\persistencia\exceptions\IllegalOrphanException.class
+com\clase10\ejercicio1\servlets\SvVotos.class
