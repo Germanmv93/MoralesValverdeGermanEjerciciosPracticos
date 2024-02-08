@@ -50,6 +50,9 @@
   - Semana 1:
 ## SpringBoot
   - Semana 1:
+    - Clase 1:
+      - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/4-SpringBoot/Semana%201/Clase%201/Ejercicio%201">Ejercicio Nº 1: Generador de refranes</a>
+      - <a href="https://github.com/Germanmv93/MoralesValverdeGermanEjerciciosPracticos/tree/master/4-SpringBoot/Semana%201/Clase%201/Ejercicio%202">Ejercicio Nº 2: Generador de datos curiosos</a>
   - Semana 2:
   - Semana 3:
   - Semana 4:
